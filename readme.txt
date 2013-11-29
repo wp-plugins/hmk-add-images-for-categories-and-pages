@@ -28,7 +28,7 @@ Usage :
 
 1. After installation each category and page will have options for adding header image / add image.
 
-2. The image can be displayed o front-end by using shortcode ['header_ads_image'] or Use "<?php if (function_exists('hmk_taxonomy_image_url')) echo hmk_taxonomy_image_url(); ?>" to get the url and put it in any img tag in header or any page template.
+2. The image can be displayed o front-end by using shortcode ['header_ads_image'] or Use `<?php if (function_exists('hmk_taxonomy_image_url')) echo hmk_taxonomy_image_url(); ?>` to get the url and put it in any img tag in header or any page template.
 
 Also from settings menu you can exclude any taxonomies from the plugin to avoid conflicting with another plugins like WooCommerce!
 
