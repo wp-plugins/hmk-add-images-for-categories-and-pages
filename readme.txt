@@ -1,6 +1,6 @@
-=== HMK ADD Images for Categories and pages. === 
+=== HMK Featured Images for Categories and pages. === 
 
-Plugin Name:HMK ADDs Images for Categories and pages.
+Plugin Name:HMK Featured Images for Categories and pages.
 Contributors:XpertOne
 Requires at least: 2.8 or higher
 Tested up to: 3.7.1
@@ -13,7 +13,7 @@ HMK ADDs Images enables the user to set different add image or header image for 
 
 == Description ==
 
-HMK Header images enables the user to set different add image or header image for each category, sub category or page. This is best applied for affiliate add images in the header or sidebar.
+HMK Featured image enables the user to set different featured image  for each category, sub category or page. This is best applied for affiliate add images in the header or sidebar for each category or page.
 The image can be displayed anywhere in the site using Shortcode or PHP function.
 
 == Installation ==
