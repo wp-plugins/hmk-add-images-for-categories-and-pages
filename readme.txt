@@ -1,7 +1,7 @@
 === HMK ADD Images for Categories and pages. === 
 
 Plugin Name:HMK ADDs Images for Categories and pages.
-Contributors: Muhammad Kashif Arain
+Contributors:XpertOne
 Requires at least: 2.8 or higher
 Tested up to: 3.7.1
 Stable tag: trunk
