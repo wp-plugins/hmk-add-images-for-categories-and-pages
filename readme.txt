@@ -6,10 +6,10 @@ Requires at least: 2.8 or higher
 Tested up to: 3.7.1
 Stable tag: trunk
 TAGS: adds image, header image, category images, affiliate image , admin, categories icons, Categories Images, categories images plugin, categories logos, category icon, category image, category image plugin, category images, category-logo, taxonomies images, taxonomy image, wp-admin
-Author URI: http://perishablepress.com/
+Author URI: http://www.kashif-arain.com
 Author: Muhammad Kashif Arain
-Stable tag: 1.0
-Version: 1.0 
+Stable tag: 1.1
+Version: 1.1 
 
 == Description ==
 
