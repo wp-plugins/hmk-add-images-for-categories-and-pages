@@ -9,11 +9,11 @@ Version: 1.1
 TAGS: adds image, header image, category images, affiliate image , admin, categories icons, Categories Images, categories images plugin, categories logos, category icon, category image, category image plugin, category images, category-logo, taxonomies images, taxonomy image, wp-admin
 License: GPLv2 or later
 
-HMK ADDs Images images enables the user to set different add image or header image for each category, sub category or page.
+HMK ADDs Images enables the user to set different add image or header image for each category, sub category or page.
 
 == Description ==
 
-HMK Header images enables the user to set different add image or header image for each category, sub category , page or post. This is best applied for affiliate add images in the header or sidebar.
+HMK Header images enables the user to set different add image or header image for each category, sub category or page. This is best applied for affiliate add images in the header or sidebar.
 The image can be displayed anywhere in the site using Shortcode or PHP function.
 
 == Installation ==
@@ -28,7 +28,7 @@ Usage :
 
 1. After installation each category and page will have options for adding header image / add image.
 
-2. The image can be displayed o front-end by using shortcode ['header_ads_image'] or Use <?php if (function_exists('hmk_taxonomy_image_url')) echo hmk_taxonomy_image_url(); ?> to get the url and put it in any img tag in header or any page template.
+2. The image can be displayed o front-end by using shortcode ['header_ads_image'] or Use '<?php if (function_exists('hmk_taxonomy_image_url')) echo hmk_taxonomy_image_url(); ?>' to get the url and put it in any img tag in header or any page template.
 
 Also from settings menu you can exclude any taxonomies from the plugin to avoid conflicting with another plugins like WooCommerce!
 
