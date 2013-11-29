@@ -5,7 +5,6 @@ Contributors: Muhammad Kashif Arain
 Requires at least: 2.8 or higher
 Tested up to: 3.7.1
 Stable tag: trunk
-Author: Muhammad Kashif Arain
 Version: 1.1 
 TAGS: adds image, header image, category images, affiliate image , admin, categories icons, Categories Images, categories images plugin, categories logos, category icon, category image, category image plugin, category images, category-logo, taxonomies images, taxonomy image, wp-admin
 License: GPLv2 or later
