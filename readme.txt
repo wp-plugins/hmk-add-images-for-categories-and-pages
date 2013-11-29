@@ -5,17 +5,16 @@ Contributors: Muhammad Kashif Arain
 Requires at least: 2.8 or higher
 Tested up to: 3.7.1
 Stable tag: trunk
-TAGS: adds image, header image, category images, affiliate image , admin, categories icons, Categories Images, categories images plugin, categories logos, category icon, category image, category image plugin, category images, category-logo, taxonomies images, taxonomy image, wp-admin
-Author URI: http://www.kashif-arain.com
 Author: Muhammad Kashif Arain
-Stable tag: 1.1
 Version: 1.1 
+TAGS: adds image, header image, category images, affiliate image , admin, categories icons, Categories Images, categories images plugin, categories logos, category icon, category image, category image plugin, category images, category-logo, taxonomies images, taxonomy image, wp-admin
+License: GPLv2 or later
+
+HMK Header images enables the user to set different add image or header image for each category, sub category or page.
 
 == Description ==
 
 HMK Header images enables the user to set different add image or header image for each category, sub category , page or post. This is best applied for affiliate add images in the header or sidebar.
-
-
 The image can be displayed anywhere in the site using Shortcode or PHP function.
 
 == Installation ==
