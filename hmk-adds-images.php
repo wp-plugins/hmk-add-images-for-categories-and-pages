@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Header Add Image
-Plugin URI: http://www.kashif-arain.com/
+Plugin Name: HMK Featured Images for Categories and pages.
+Plugin URI: http://www.meshpros.com/
 Description: Header Add Image for each category, Custom Taxonomy.
 Author: Muhammad Kashif Arain
-Version: 1.1
-Author URI: http://www.kashif-arain.com/
+Version: 1.2
+Author URI: http://www.meshpros.com/
 */
 ?>
 <?php
