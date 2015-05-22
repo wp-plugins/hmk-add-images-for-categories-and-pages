@@ -3,7 +3,7 @@
 Plugin Name:HMK Featured Images for Categories and pages.
 Contributors:XpertOne
 Requires at least: 2.8 or higher
-Tested up to: 3.7.1
+Tested up to: 4.2.2
 Stable tag: trunk
 Version: 1.1 
 TAGS: adds image, header image, category images, affiliate image , admin, categories icons, Categories Images, categories images plugin, categories logos, category icon, category image, category image plugin, category images, category-logo, taxonomies images, taxonomy image, wp-admin
